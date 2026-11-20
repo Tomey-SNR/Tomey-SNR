@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Tamás 👋
 
-<!--
-**Tomey-SNR/Tomey-SNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior QA Engineer | Java | Selenium | JUnit 5
 
-Here are some ideas to get you started:
+I'm a student and aspiring QA Engineer focused on software testing and test automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring application behavior, identifying defects, writing automated tests, and building maintainable test frameworks.
+
+## 🛠️ Tech Stack
+
+**Programming:** Java
+
+**Test Automation:** Selenium WebDriver, JUnit 5
+
+**Testing:** Manual Testing, UI Testing, Integration Testing, Mockito
+
+**Build Tools:** Maven
+
+**Development:** Spring Boot, PostgreSQL, SQL
+
+**DevOps & Tools:** Git, GitHub Actions, Docker, IntelliJ IDEA
+
+## 🚀 Featured Projects
+
+### [SauceDemo QA Automation](https://github.com/Tomey-SNR/saucedemo-qa-automation)
+
+Automated UI testing framework for SauceDemo using Java, Selenium WebDriver, JUnit 5, Maven, and Page Object Model.
+
+- 25 automated tests
+- 6 user stories covered
+- GitHub Actions CI with headless browser execution
+
+### [MiniShop](https://github.com/Tomey-SNR/java-minishop)
+
+Full-stack online shop built with Java and Spring Boot.
+
+- PostgreSQL database
+- Spring Data JPA and Thymeleaf
+- JUnit 5 and Mockito
+- Docker and GitHub Actions
+- 111 tests
+
+### [Java Quest – Snake Edition](https://github.com/Tomey-SNR/java-quest-snake)
+
+Classic Snake game built with Java Swing.
+
+- Model-View-Controller architecture
+- Maven
+- JUnit 5
+- 24 tests
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/tomeysnr)
+- [GitHub](https://github.com/Tomey-SNR)
