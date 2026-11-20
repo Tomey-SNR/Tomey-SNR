@@ -24,6 +24,8 @@ I enjoy exploring application behavior, identifying defects, writing automated t
 
 ### [SauceDemo QA Automation](https://github.com/Tomey-SNR/saucedemo-qa-automation)
 
+[![SauceDemo CI](https://github.com/Tomey-SNR/saucedemo-qa-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/Tomey-SNR/saucedemo-qa-automation/actions/workflows/ci.yml)
+
 Automated UI testing framework for SauceDemo using Java, Selenium WebDriver, JUnit 5, Maven, and Page Object Model.
 
 - 25 automated tests
@@ -31,6 +33,8 @@ Automated UI testing framework for SauceDemo using Java, Selenium WebDriver, JUn
 - GitHub Actions CI with headless browser execution
 
 ### [MiniShop](https://github.com/Tomey-SNR/java-minishop)
+
+[![MiniShop CI](https://github.com/Tomey-SNR/java-minishop/actions/workflows/ci.yml/badge.svg)](https://github.com/Tomey-SNR/java-minishop/actions/workflows/ci.yml)
 
 Full-stack online shop built with Java and Spring Boot.
 
@@ -41,6 +45,8 @@ Full-stack online shop built with Java and Spring Boot.
 - 111 tests
 
 ### [Java Quest – Snake Edition](https://github.com/Tomey-SNR/java-quest-snake)
+
+[![Java Quest CI](https://github.com/Tomey-SNR/java-quest-snake/actions/workflows/ci.yml/badge.svg)](https://github.com/Tomey-SNR/java-quest-snake/actions/workflows/ci.yml)
 
 Classic Snake game built with Java Swing.
 
